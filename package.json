@@ -1,9 +1,9 @@
 {
-	"name": "chrome-icon-list",
-	"version": "1.0.2",
-	"description": "List of the Chrome browser extension icons.",
+	"name": "firefox-icon-list",
+	"version": "1.0.0",
+	"description": "List of the Firefox browser extension icons.",
 	"license": "MIT",
-	"repository": "https://github.com/andrefortin/chrome-icon-list",
+	"repository": "https://github.com/andrefortin/firefox-icon-list",
 	"author": {
 		"name": "Andre Fortin",
 		"email": "andre.v.fortin@gmail.com",
@@ -20,9 +20,11 @@
 		"icons.json"
 	],
 	"keywords": [
-		"chrome",
-		"chromium",
+		"firefox",
+		"gecko",
+		"mozilla",
 		"extension",
+		"plugin",
 		"application",
 		"icons",
 		"list",

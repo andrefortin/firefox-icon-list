@@ -1,7 +1,7 @@
-const chromeIconList = require('.');
+const firefoxIconList = require('.');
 
-describe('chrome icons', () => {
-	test('chrome icons count', async () => {
-		expect(chromeIconList().length).toBe(5);
+describe('firefox icons', () => {
+	test('firefox icons count', async () => {
+		expect(firefoxIconList().length).toBe(5);
 	});
 });
